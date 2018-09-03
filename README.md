@@ -1,2 +1,2 @@
-# mad-libs
-Mad Libs project for CS 1.1 for @MakeSchool
+# Mad Libs
+Mad Libs project for [@MakeSchool](https://github.com/MakeSchool)'s CS 1.1 Class
